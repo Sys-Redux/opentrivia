@@ -156,7 +156,7 @@ const TriviaQuestion = () => {
 
     return (
         <div className='vh-100 d-flex justify-content-center align-items-center'>
-            <Container className='bg-danger p-4 rounded d-flex flex-column align-items-center' style={{ height: '40vh' }}>
+            <Container className='bg-danger p-4 rounded d-flex flex-column align-items-center'>
                 <h2 className='mb-4'>Trivia Question {currentQuestionIndex + 1} of {questions.length}</h2>
 
                 {formError && <Alert variant='warning'>{formError}</Alert>}
