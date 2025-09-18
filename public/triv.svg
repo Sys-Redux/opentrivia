@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-labelledby="t2 d2">
+  <title id="t2">Quizly Badge</title>
+  <desc id="d2">Circular badge with letter Q as question mark.</desc>
+  <circle cx="256" cy="256" r="248" fill="#2196F3"></circle>
+  <circle cx="256" cy="256" r="192" fill="#E3F2FD"></circle>
+  <path d="M200 200c0-32 32-64 72-64s72 28 72 64c0 36-24 52-48 72-22 18-32 36-32 56" fill="none" stroke="#0B3D91" stroke-width="28" stroke-linecap="round" stroke-linejoin="round"></path>
+  <circle cx="320" cy="340" r="20" fill="#0B3D91"></circle>
+</svg>
